@@ -1,0 +1,8 @@
+name: GirisKayitForm
+main: GirisKayitForm\Main
+version: 1.0.0
+api: [5.0.0]
+author: emrkxbhhjhjdkd
+description: FormAPI ile kayıt/giriş/şifre değiştir menüsü.
+depend:
+  - FormAPI
